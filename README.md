@@ -11,4 +11,4 @@ of personal information if anyone decided to use our service
 "Hashtag Generator" didn't collect any personalized data from anyone.
 
 <H6> Contact us </H6>
-E-mail : akhilcregi14@gmail.com
+E-mail : 02xdeveloper@gmail.com
