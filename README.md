@@ -25,7 +25,7 @@ No refund requests will be entertained for the reason that he or she doesn't lik
 
 <H3> Collecting information </H3>
 
-"Hashtag Generator" didn't collect any personalized data from anyone.
+"Hashtag Generator" collects users payment information like customer id and client id etc..
 
 <H3> Contact us / Customer support </H3>
 E-mail : 02xdeveloper@gmail.com
